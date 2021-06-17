@@ -25,13 +25,12 @@ a = map(int, input().split())
 set1 = set(a)
 s2 = int(input())
 b = map(int, input().split())
-set2= set(b)
+set2 = set(b)
 diff1 = list(set2.difference(set1))
 diff2 = list(set1.difference(set2))
-mylist = diff1 + diff2
-mylist.sort()
-for i in range(0,len(mylist)):
-     print(mylist[i])
-
+MyList = diff1 + diff2
+MyList.sort()
+for i in range(0, len(MyList)):
+    print(MyList[i])
 
 # ==================================================================#
