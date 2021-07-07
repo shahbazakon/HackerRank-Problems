@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/HackerRank Problems.iml" filepath="$PROJECT_DIR$/.idea/HackerRank Problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PerfectPy/.idea/PerfectPy.iml" filepath="$PROJECT_DIR$/../PerfectPy/.idea/PerfectPy.iml" />
     </modules>
   </component>
 </project>
